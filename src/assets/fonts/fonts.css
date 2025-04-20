@@ -1,0 +1,50 @@
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-display: swap;
+  src: url(./Inter-VariableFont_opsz,wght.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: 'Carattere';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(./Carattere-Regular.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: 'Yaldevi';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(./Yaldevi-VariableFont_wght.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: 'NotoSerifSC';
+  font-style: normal;
+  font-display: swap;
+  src: url(./NotoSerifSC-VariableFont_wght.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: 'Abhaya Libre Regular';
+  font-style: normal;
+  font-display: swap;
+  src: url(./AbhayaLibre-Regular.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: 'Abhaya Libre SemiBold';
+  font-style: normal;
+  font-display: swap;
+  src: url(./AbhayaLibre-SemiBold.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-display: swap;
+  src: url(./Roboto-VariableFont_wdth\,wght.ttf) format("truetype");
+}
